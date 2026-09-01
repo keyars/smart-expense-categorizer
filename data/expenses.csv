@@ -1,0 +1,61 @@
+description,category
+Uber ride to office,Transportation
+Ola cab to client meeting,Transportation
+Petrol for car,Transportation
+Metro card recharge,Transportation
+Bus ticket to work,Transportation
+Train ticket for business trip,Transportation
+Dinner at restaurant,Food & Dining
+Lunch at cafe,Food & Dining
+Pizza delivery,Food & Dining
+Groceries from supermarket,Food & Dining
+Coffee and snacks,Food & Dining
+Breakfast at hotel,Food & Dining
+AWS monthly server bill,Software & Cloud
+GitHub subscription,Software & Cloud
+Google Workspace monthly plan,Software & Cloud
+Microsoft 365 subscription,Software & Cloud
+Domain renewal,Software & Cloud
+Cloud hosting charges,Software & Cloud
+New office chair,Office & Equipment
+Laptop accessories,Office & Equipment
+Printer ink cartridge,Office & Equipment
+Office stationery,Office & Equipment
+External keyboard,Office & Equipment
+Desk monitor,Office & Equipment
+Electricity bill,Utilities
+Internet broadband bill,Utilities
+Mobile phone bill,Utilities
+Water bill,Utilities
+Office maintenance bill,Utilities
+Electricity usage charge,Utilities
+Netflix subscription,Entertainment
+Movie tickets,Entertainment
+Concert ticket,Entertainment
+Music streaming subscription,Entertainment
+Book purchase,Entertainment
+Gaming subscription,Entertainment
+Salary payment,Income
+Freelance project payment,Income
+Client invoice received,Income
+Consulting payment,Income
+Monthly contract income,Income
+Business payment received,Income
+Uber ride to airport,Transportation
+Taxi from airport,Transportation
+Fuel station payment,Transportation
+Highway toll payment,Transportation
+Restaurant dinner with team,Food & Dining
+Swiggy lunch order,Food & Dining
+Supermarket grocery purchase,Food & Dining
+AWS database charge,Software & Cloud
+Figma subscription,Software & Cloud
+Slack subscription,Software & Cloud
+New office desk,Office & Equipment
+USB hub purchase,Office & Equipment
+Cloud backup bill,Software & Cloud
+Office power bill,Utilities
+Jio mobile recharge,Utilities
+Amazon Prime subscription,Entertainment
+Salary credited,Income
+Consulting invoice payment,Income
