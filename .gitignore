@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.pytest_cache/
+artifacts/*.joblib
+.idea/
+.vscode/
+.DS_Store
